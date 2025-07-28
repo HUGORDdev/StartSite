@@ -18,7 +18,7 @@ Ce projet est un site web permettant de découvrir les stars de mon répertoire 
 
 ## 📸 Aperçu
 
-![Screenshot](D:\nex\my work\starts site jqwery\projets\start.png)
+![Screenshot](./start.png)
 
 ## 🧰 Installation
 
